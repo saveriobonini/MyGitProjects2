@@ -1,3 +1,5 @@
 git log
 git init
 git commit
+git ajeje
+git add
